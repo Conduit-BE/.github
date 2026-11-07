@@ -1,7 +1,7 @@
  
 <div align="center">
 
-<img src='./assets/logo.png'>
+<img src='/assets/logo.png'>
 
 ### Better tools. Faster development. Less waiting.
 
